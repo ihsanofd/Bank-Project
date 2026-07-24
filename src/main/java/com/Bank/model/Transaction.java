@@ -2,7 +2,6 @@ package com.Bank.model;
 
 import com.Bank.Enum.Status;
 import jakarta.persistence.*;
-import jdk.jfr.Name;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
